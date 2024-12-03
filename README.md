@@ -1,8 +1,8 @@
 # fetch_api
 
-A new Flutter project.
+# Screenshot:
 
-## Getting Started
+<img src="https://github.com/rashmi2201/fetch_api/blob/main/outputs/result.gif" height="400">
 
 This project is a starting point for a Flutter application.
 
